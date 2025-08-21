@@ -1,0 +1,12 @@
+.confident,
+.competative {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.confident {
+    color: white;
+    background-color: black;
+}
+.competative {
+    background-color: yellow;
+}
